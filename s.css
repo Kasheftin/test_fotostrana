@@ -1,0 +1,140 @@
+
+body { text-align: center; }
+
+h1 { font-size: 1.8em; margin: 10px 0px; color: #234b7b; }
+h2 { font-size: 1.3em; margin: 10px 0px; margin-bottom: 5px; color: #436a98; }
+h3 { font-size: 1.2em; margin: 10px 0px; margin-bottom: 5px; color: #436a98; }
+h4 { font-size: 1.2em; margin: 10px 0px; margin-bottom: 5px; color: #999999; }
+h5 { font-size: 1.1em; margin: 10px 0px; margin-bottom: 5px; color: #c00000; }
+
+
+#container { width: 960px; position: relative; margin: 0 auto; text-align: left; border: 1px solid #dedede; border-width: 0px 1px 0px 1px; }
+#topLine { padding: 5px 10px; color: #dedede; }
+#topLine a { font-weight: bold; color: #336699; text-decoration: none; }
+#topLine a:hover { color: #003366; }
+#profileLinks { float: right; }
+#topMenu { float: left; }
+#content { padding: 5px 10px; }
+#bottom { padding: 5px 10px; text-align: center; }
+
+#selectGeo { padding: 0px 10px; margin-top: -8px; text-align: right; font: normal 0.9em Arial; color: #909090; }
+#selectGeo a { font-weight: bold; color: #707070; text-decoration: none; }
+#selectGeo a:hover { text-decoration: underline; }
+
+#selectGeoDiv { position: absolute; z-index:2; top: 50px; right: 5px; display: none; border: 1px solid #cad6e1; background-color: #e9edf2; color: #4d73a0; text-align: right; }
+#selectGeoDiv select { font-size: 1em; margin: 2px; width: 140px; border: 1px solid #cad6e1; color: #909090; }
+#selectGeoDiv button { color: #FFFFFF; border: 1px solid #436a98; background-color: #4d73a0; margin: 2px; }
+#selectGeoDiv_close { margin: 2px; }
+
+
+.sep { clear: both; margin: 10px; height: 1px; font-size: 1px; border-bottom: 1px solid #dedede; }
+
+.error { border: 1px solid #c00000; color: #c00000; padding: 5px; }
+.error .error_header { font-size: 1.1em; font-weight: bold; }
+.error .error_content { margin: 5px 10px; }
+
+.success { border: 1px solid #336699; color: #336699; padding: 5px; }
+.success .success_header { font-size: 1.1em; font-weight: bold; }
+.success .success_content { margin: 5px 10px; }
+
+div.loading { height: 32px; }
+div.loading span { height: 32px; line-height: 32px; display: block; font-size: 1em; }
+div.loading span.loading { background: url("/im/loading.gif") 0px 0px no-repeat; padding: 0 5px 0 32px; }
+div.loading span.success { background: url("/im/loading_success.gif") 0px 0px no-repeat; padding: 0; padding: 0 5px 0 32px; }
+div.loading span.error { background: url("/im/loading_error.gif") 0px 0px no-repeat; padding: 0; padding: 0 5px 0 32px; }
+ 
+.centerForm { width: 400px; text-align: left; margin: 50px auto; color: #707070; }
+.centerForm h1 { font-size: 1.6em; color: #e2367f; margin: 0; }
+.centerForm .s { font-size: 0.9em; color: #AAAAAA; }
+.centerForm .fname { margin-top: 15px; color: #707070; }
+.centerForm td.fname { vertical-align: middle; }
+.centerForm select { border: 1px solid #d0d0d0; margin: 5px 0px; }
+.centerForm input.big { font-size: 2em; border: 1px solid #d0d0d0; margin: 5px 0px; width: 100%; }
+.centerForm input.sbig { font-size: 1.2em; border: 1px solid #d0d0d0; margin: 5px 0px; width: 100%; }
+.centerForm input.button { font-size: 2em; color: #FFFFFF; border: 1px solid #436a98; background-color: #4d73a0; margin-top: 5px; padding-bottom: 2px; }
+
+.centerForm2 { margin: 0 auto; text-align: left; width: 500px; }
+.centerForm2 td { padding: 2px; }
+.centerForm2 .hh { font-size: 1.4em; margin-top: 20px; margin-bottom: 10px; color: #336699; }
+.centerForm2 .form { width: 100%; }
+.centerForm2 input.inp  { width: 360px; }
+.centerForm2 textarea { width: 360px; height: 50px; font-size: 1.2em; }
+.centerForm2 .f { width: 130px; vertical-align: middle; }
+.centerForm2 .save_buttons { height: 36px; margin-bottom: 10px; }
+.centerForm2 .save_buttons td { vertical-align: middle; }
+.centerForm2 .save_buttons .button { height: 12px; margin-right: 5px; font-size: 0.8em; padding: 3px 5px 0px 5px; border: 1px solid #336699; background-color: #4d73a0; }
+.centerForm2 .save_buttons .button a { text-decoration: none; color: #ffffff; text-transform:uppercase; } 
+.centerForm2 .profile_photo { text-align: center; margin: 10px; }
+.centerForm2 .profile_photo .sub { display: block; text-align: right; font-size: 0.8em; color: #909090; margin-top: 5px; }
+.centerForm2 input.submit { width: auto; font-size: 2em; color: #FFFFFF; border: 1px solid #436a98; background-color: #4d73a0; margin-top: 5px; padding-bottom: 2px; }
+.centerForm2 .addinfo { padding: 5px; color: #404040; font-size: 0.9em; }
+
+#profile_no_photo { position: relative; background: url("/im/no_user_photo.jpg") 0px 0px no-repeat; height: 200px; width: 200px; margin: 0 auto; }
+#profile_no_photo div { position: absolute; width: 130px; height: 20px; top: 80px; left: 25px; background-color: #c0c0c0; color: #ffffff; padding: 10px; }
+
+.profileForm { margin: 10px 0px; }
+.profileForm input.button { margin: 5px 0px 0px 5px; color: #FFFFFF; background-color: #4d73a0; border: 1px solid #264e7e; }
+.profileForm .adv_img_div { margin: 10px; text-align: center; }
+.profileForm textarea.maintext { width: 100%; height: 100px; margin: 0; padding: 0; }
+.profileForm td { vertical-align: middle; }
+.profileForm input.big { font-size: 1.2em; }
+
+.user_profile .info { margin: 15px 0px; }
+.user_profile .info td { padding: 5px 10px; }
+.user_profile .info td.f { text-align: right; vertical-align: middle; font-weight: bold; font-size: 1em; color: #707070; } 
+.user_profile .info td.v { font-size: 1em; color: #303030; }
+.user_profile .info td.about { color: #606060; font-style:italic; }
+.user_profile .profile_photo { text-align: center; margin: 10px; }
+.user_profile .profile_photo img { border: 1px solid #c0c0c0; padding: 1px; }
+
+.text { color: #404040; line-height: 1.2em; }
+
+.bigButton { margin: 10px 0px; text-align: center; }
+.bigButton a { padding: 5px; color: #ffffff; font-size: 1.5em; background-color: #4d73a0; border: 1px solid #003366; text-decoration: none; } 
+.bigButton a:hover { background-color: #18314d; }
+
+.rightButton { margin: 10px 0px; text-align: right; }
+.rightButton a { padding: 5px; color: #ffffff; font-size: 1em; font-weight: bold; background-color: #4d73a0; border: 1px solid #003366; text-decoration: none; }
+.rightButton a:hover { background-color: #18314d; }
+
+.leftButton { margin: 10px 0px; text-align: left; }
+.leftButton a { padding: 5px; color: #ffffff; font-size: 1em; font-weight: bold; background-color: #4d73a0; border: 1px solid #003366; text-decoration: none; }
+.leftButton a:hover { background-color: #18314d; }
+
+.centerButton { margin: 20px 0px 10px 0px; text-align: center; }
+.centerButton a { padding: 5px; color: #ffffff; font-size: 1em; font-weight: bold; background-color: #4d73a0; border: 1px solid #003366; text-decoration: none; }
+.centerButton a:hover { background-color: #18314d; }
+
+.mainpage_photos .uid { float: left; position: relative; }
+.mainpage_photos .uid img { margin: 1px; } 
+
+.sideBlock { margin: 20px 0px 30px 0px; }
+.sideBlock h2 { font-size: 1em; font-weight: bold; font-family: Cambria, Georgia; color: #456890; padding: 2px 5px; margin: 0; text-transform: uppercase; line-height: 1.4em; }
+.sideBlock .inner { border: 1px solid #dedede; padding: 10px; }
+
+.filter .h { font-weight: bold; color: #336699; }
+.filter .p { margin: 5px 10px; }
+.filter .p,.filter input,.filter select { color: #555555; } 
+
+.tbl_short { width: 100%; }
+.tbl_short td { padding: 5px; border: 1px solid #ffffff; background-color: #f0f0e7; }
+.tbl_short th { padding: 5px; border: 1px solid #ffffff; font-size: 1em; font-weight: normal; text-align: center; background-color: #e0e0d5; color: #909090; }
+.tbl_short th.date { width: 100px; }
+.tbl_short th.from { width: 120px; }
+.tbl_short th.edit { width: 120px; }
+.tbl_short th.cnt { width: 60px; }
+.tbl_short th.checkbox { width: 30px; }
+.tbl_short td a { color: #336699; }
+.tbl_short td.m { font-size: 1.1em; font-weight: bold; }
+.tbl_short td.mm { font-size: 1.3em; font-weight: bold; padding: 5px; }
+.tbl_short td.v { text-align: center; }
+.tbl_short td.m .small { float: right; font-weight: normal; color: #c00000; }
+.tbl_short .sub { color: #909090; font-weight: normal; font-size: 1em; }
+.tbl_short .gray { color: #808080; }
+
+.message { margin-top: 15px; }
+.message .h { font-size: 2em; }
+.message .text { font-size: 1.1em; margin: 10px; line-height: 1.3em; }
+.message .sub div { float: left; padding-left: 30px; color: #909090; }
+
+

@@ -1,0 +1,68 @@
+<?php
+
+return array(
+	"classes_ext"		=> ".class",
+	"main_dir"		=> dirname(__FILE__),
+	"classes_dir"		=> dirname(__FILE__) . "/" . "classes",
+	"tmp_dir"		=> dirname(__FILE__) . "/" . "tmp",
+	"users_avatars_global_dir"	=> dirname(__FILE__) . "/images/users_avatars",
+	"users_avatars_local_dir"	=> "/images/users_avatars",
+	"debug"			=> 1,
+	"debug_format"		=> "html",
+	"db"			=> array(
+				"connections"	=> array(
+						"default" => array(
+								"sys"		=> "mysql:host=localhost;dbname=kasheftin_bg",
+								"user"		=> "kasheftin_bg",
+								"pass"		=> "sagwhVqw323Jk",
+								"encoding"	=> "utf8",
+								"errmode"	=> "exception",
+								"errformat"	=> "html",
+							),
+						"local" => array(
+								"sys"		=> "mysql:host=localhost;dbname=test",
+								"user"		=> "test",
+								"pass"		=> "sVQ8JwKDtdcn4mXU",
+								"encoding"	=> "utf8",
+								"errmode"	=> "exception",
+								"errformat"	=> "html",
+							),
+					),
+				"default_connection_id" => "default",
+			),
+	"channels"		=> array(
+				"main"		=> array("id"=>"main","domain"=>"","topmenu_position"=>1,"topmenu"=>"Главная страница"),
+				"people"	=> array("id"=>"people","domain"=>"people"),
+				"profile"	=> array(
+							"id"=>"profile",
+							"domain"=>"profile",
+							"topmenu"=>"Профиль",
+							"title"=>"Профиль",
+							"pages"=>array(
+									"signin"=>array("id"=>"signin","domain"=>"signin","topmenu_position"=>1,"auth_denied"=>1,"topmenu"=>"Войти","title"=>"Вход на сайт"),
+									"signup"=>array("id"=>"signup","domain"=>"signup","topmenu_position"=>2,"auth_denied"=>1,"topmenu"=>"Зарегистрироваться","title"=>"Регистрация"),
+									"profile"=>array("id"=>"profile","domain"=>"","topmenu_position"=>1,"auth_required"=>1,"topmenu"=>"Профиль","title"=>"Профиль"),
+									"change_profile"=>array("id"=>"change_profile","domain"=>"change_profile","auth_required"=>1,"title"=>"Изменить мои данные"),
+									"write_message"=>array("id"=>"write_message","domain"=>"write_message","auth_required"=>1,"title"=>"Написать сообщение"),
+									"my_messages"=>array("id"=>"my_messages","domain"=>"my_messages","topmenu_position"=>2,"auth_required"=>1,"topmenu"=>"Мои сообщения","title"=>"Мои сообщения"),
+									"show_message"=>array("id"=>"show_message","domain"=>"show_message","auth_required"=>1,"title"=>"Просмотр сообщения"),
+									"exit"=>array("id"=>"exit","domain"=>"exit","topmenu_position"=>3,"auth_required"=>1,"topmenu"=>"Выход","title"=>"Выход"),
+								),
+						),
+				"error"		=> array("id"=>"error"),
+				"success"	=> array("id"=>"success"),
+				"common"	=> array("id"=>"common","title"=>"Cell's People"),
+			),
+	"default_channel"	=> "main",
+	"default_page"		=> "default",
+	"auth"			=> array(
+				"enable_online"		=> 1,
+				"online_cache_dir"	=> dirname(__FILE__) . "/" . "tmp/auth_online",
+				"online_interval"	=> 5*60,
+				"rememberme_time"	=> 86400*14,
+				"cookie_domain"		=> false,
+			),
+	"tmpl"			=> "1.html",
+	"title_sep"		=> " - ",
+	"users_ipp"		=> 35,
+);

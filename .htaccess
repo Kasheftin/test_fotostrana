@@ -1,0 +1,16 @@
+Options +FollowSymLinks
+DirectoryIndex index.php
+AddDefaultCharset utf-8
+AddHandler php5-script .php
+
+
+RewriteEngine On
+                                                   
+RewriteRule robots\.txt - [L]
+RewriteRule ^js/js\_data\. /scripts/js_data.php [L]
+RewriteRule ^(css|im|images|js|loaders|updaters)\/ - [L]
+RewriteRule \.(css|js|jpg|jpeg|gif|bmp|png|php|ico|txt) - [L]
+
+RewriteRule .* /index.php [L]
+
+

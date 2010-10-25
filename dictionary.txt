@@ -1,0 +1,960 @@
+                                                                       
+
+###Help, messages
+
+events_add_event_in_menu_header	~!~	добавить событие
+events_add_event_in_menu	~!~	Если Вы являетесь представителем официальной организации и хотите разместить на сайте <a href='http://www.obzor.lt/'>obzor.lt</a> информацию о событии или мероприятии, Вы можете отправить заявку, которая будет рассмотрена редакцией газеты.
+events_signin_required_text	~!~	<i>Зачем нужно регистрироваться?</i><br /><br />Вам нужно зарегистрироваться для того, чтобы в дальнейшем иметь возможность редактировать и удалять информацию в событиях и мероприятиях, которые Вы добавите.
+bottom_copyright		~!~	Авторские права на всю информацию, размещенную на веб-сайте <a href='http://www.obzor.lt/'>Obzor.lt</a> принадлежат редакции газеты «Обзор» и ЗАО «Flobis». Использование материалов сайта разрешено только с письменного разрешения ЗАО "Flobis". В противном случае любая перепечатка материалов (даже с установленной ссылкой на оригинал) является нарушением и влечет ответственность, предусмотренную законодательством ЛР о защите авторских прав. Газета «Обзор»: <a href="http://www.obzor.lt/">новости Литвы</a>.
+contact_email_help		~!~	если указан, отображается на странице пользователя, виден посетителям
+you_havent_messages_yet		~!~	у Вас пока нет сообщений
+user_nick_or_some_with_comma	~!~	ник пользователя или несколько через ","
+user_nick_or_some		~!~	ник пользователя или несколько
+this_message_hasnt_receivers	~!~	у этого сообщения нет получателей
+this_message_hasnt_receivers_help	~!~	обычно это бывает, если Ваш получатель удалил полученное сообщение. Сообщение в системе осталось, но адресат "отписался" от него, и не видит ни ответов, ни самого сообщения.
+answered_comment_doesnt_exist	~!~	комментарий, на который Вы хотите дать ответ, не существует
+you_havent_notifications	~!~	у Вас нет оповещений
+change_data_about_me		~!~	изменить мои данные
+oh_man_howre_you_feel		~!~	Ого! Каково это чувствовать себя мужиком?
+oh_woman_howre_you_feel		~!~	Ого! Каково это чувствовать себя женщиной?
+nick_contains_incorect_characters	~!~	поле Ник содержит недопустимые символы, ник может состоять только из букв английского алфавита, цифр и знака _
+or_select_from_the_list		~!~	или выберите из списка
+send_to_archive			~!~	в архив
+delete_messages_large		~!~	вы уверены что хотите удалить сообщения? Удаляйте только если это СПАМ. Если удалите, потеряете к ним доступ, и, если Ваш собеседник добавит добавит ответ к существующему сообщению-конференции, Вы об этом не узнаете и не сможете его прочитать.
+delete_message_large		~!~	вы уверены что хотите удалить сообщение? Удаляйте только если это СПАМ. Если удалите, потеряете к нему доступ, и, если Ваш собеседник добавит добавит ответ к данному сообщению-конференции, Вы об этом не узнаете и не сможете его прочитать.
+messages_archive		~!~	архив личных сообщений
+send_to_main_messages		~!~	перенести в основные сообщения
+main_messages			~!~	основные сообщения
+you_havent_archive_messages	~!~	у Вас нет сообщений в архиве
+in_the_archive_therere		~!~	в архиве
+goto_archive_messages		~!~	перейти к архивным сообщениям
+goto_main_messages		~!~	перейти к основным сообщениям
+in_the_main_messages_folder_therere	~!~	в основной папке с сообщениями
+archive_message			~!~	архивное сообщение
+courses_overview_in_all_banks	~!~	обзор курсов валют во всех банках
+currency_dynamic_long		~!~	динамика курса валюты в банках Литвы, Латвии, Эстонии, России и Беларуси
+main_vals			~!~	основные валюты
+popular_vals			~!~	популярные валюты
+other_vals			~!~	остальные валюты
+currencies_dynamic_of		~!~	динамика курса
+set_30_days			~!~	30 дней
+set_90_days			~!~	90 дней
+banks_not_selected		~!~	банк не выбран
+data_loaded			~!~	данные загружены
+data_not_found			~!~	данные не найдены
+currencies_note			~!~	Данные о курсах валют носят информативный характер. Администрация сайта не несет ответственности за достоверность информации. Источники информации - <a href='http://www.cbr.ru/'>cbr.ru</a>, <a href='http://www.lb.lt/'>lb.lt</a>, <a href='http://www.bank.lv'>bank.lv</a>, <a href='http://www.eestipank.ee/'>eestipank.ee</a>, <a href='http://www.nbrb.by'>nbrb.by</a>.
+remember_me_for_two_weeks_and_autologin	~!~	запомнить меня на две недели и входить автоматически
+sites_developer			~!~	разработка сайта
+too_long_user_name		~!~	слишком длинное имя
+enter_code_from_a_picture	~!~	введите код с картинки
+session_work_error		~!~	ошибка работы сессий
+incorrect_code_on_a_picture	~!~	неверный код на картинке
+you_have_not_any_messages_yet	~!~	у вас пока нет сообщений
+
+
+###Subscription, notifications
+sent_your_message		~!~	отправил Вам сообщение
+sent_your_message0		~!~	отправило Вам сообщение
+sent_your_message1		~!~	отправил Вам сообщение
+sent_your_message2		~!~	отправила Вам сообщение
+sent_your_message		~!~	отправил вам новое сообщение
+sent_your_message0		~!~	отправило вам новое сообщение
+sent_your_message1		~!~	отправил вам новое сообщение
+sent_your_message2		~!~	отправила вам новое сообщение
+added_new_answer		~!~	добавил новый ответ
+added_new_answer0		~!~	добавило новый ответ
+added_new_answer1		~!~	добавил новый ответ
+added_new_answer2		~!~	добавила новый ответ
+sent_message			~!~	отправил новое сообщение
+sent_message0			~!~	отправило новое сообщение
+sent_message1			~!~	отправил новое сообщение
+sent_message2			~!~	отправила новое сообщение
+commented			~!~	добавил комментарий
+commented0			~!~	добавило комментарий
+commented1			~!~	добавил комментарий
+commented2			~!~	добавила комментарий
+answered			~!~	ответил
+answered0			~!~	ответило
+answered1			~!~	ответил
+answered2			~!~	ответила
+
+new_comment_on_your_publication	~!~	новый комментарий к Вашей публикации
+new_comment_on_your_message	~!~	новый ответ к Вашему сообщению
+new_comment_on_your_event	~!~	новый комментарий к событию, которое Вы добавили
+new_comment_on_your_blog_post	~!~	новый комментарий к Вашему посту
+
+new_answer_on_your_comment	~!~	новый ответ к вашему комментарию
+new_answer_in_the_message	~!~	новый ответ в сообщении
+new_message_from_user		~!~	новое сообщение от пользователя
+
+to_your_publication		~!~	к Вашей публикации
+to_your_message			~!~	к Вашему сообщению
+to_your_event			~!~	к событию, которое Вы добавили
+to_your_blog_post		~!~	к Вашему посту
+
+to_the_publication		~!~	к публикации
+to_the_message			~!~	к сообщению
+to_the_event			~!~	к событию
+to_the_blog_post		~!~	к посту
+
+on_your_comment			~!~	на ваш комментарий
+to_your_comment			~!~	к вашему комментарию
+to_the_message			~!~	к сообщению
+to_the_article			~!~	к статье
+to_the_blog_post		~!~	к посту
+to_the_event			~!~	к событию
+to_the_game			~!~	к игре
+
+your_comment			~!~	ваш комментарий
+new_message			~!~	новое сообщение
+from_user			~!~	от пользователя
+
+
+###Events
+no_events			~!~	событий не найдено
+add_event			~!~	добавить событие
+active_event			~!~	активное событие
+event_dates			~!~	даты проведения
+event_date			~!~	дата проведения
+event_switch_1			~!~	участвовать
+event_switch_0			~!~	отказаться от участия
+events_in			~!~	события в
+in_lietuva			~!~	Литве
+in_baltic_countries		~!~	странах Балтии
+event_type			~!~	тип события
+select_one_or_some_event_type	~!~	выберите один или несколько типов
+enter_event_title		~!~	введите название события
+enter_event_description		~!~	введите описание события
+my_events_archive		~!~	архив моих событий
+my_events_archive_full		~!~	архив моих событий (мои события, которые уже прошли)
+my_events			~!~	мои события
+all_events			~!~	все события
+start_date_is_not_set		~!~	дата начала события не указана
+end_date_is_not_set		~!~	дата окончания события не указана
+events_by_cities_in		~!~	события по городам в 
+last_comments_to_events		~!~	последние комментарии к событиям
+events				~!~	события
+
+###Blogs, posts, topics
+blog_post_deleted		~!~	пост удален
+add_blog_post			~!~	добавить пост (топик)
+add_blog			~!~	добавить блог
+leave_blog			~!~	покинуть блог
+this_is_your_blog		~!~	это ваш блог
+edit_blog_info			~!~	редактировать информацию о блоге
+blog_type			~!~	тип блога
+personal_blog			~!~	личный блог (один автор)
+community			~!~	сообщество (несколько авторов)
+blog_name			~!~	название блога
+blog_domain_help		~!~	Блог доступен по адресу <br> http://www.obzor.lt/blogs/.../
+create_new_blog			~!~	создать новый блог
+edit_information_about_blog	~!~	редактировать информацию о блоге
+create_blog			~!~	создать блог
+domain_contains_incorrect_characters	~!~	домен блога содержит недопустимые символы (допускаются только a-z,0-9,_)
+empty_blog_name			~!~	пустое название блога
+therere_some_authors_who_have_written_to_this_blog	~!~	в этот блоге есть публикации разных авторов. Вы не можете сделать его личным.
+blog_not_found			~!~	блог не найден
+new_blog_was_created		~!~	новый блог был создан
+blog_updated			~!~	информация о блоге обновлена
+blog_poster_or_logo		~!~	постер или логотип блога
+active_topic			~!~	активный пост (топик)
+new_blog_post			~!~	новый пост (топик)
+edit_blog_post			~!~	редактировать пост (топик)
+blog_post_added			~!~	новый топик создан
+blog_post_updated		~!~	топик обновлен
+in_what_blog_publish		~!~	в какой блог публикуем
+my_personal_blog		~!~	мой персональный блог
+my_community			~!~	мое сообщество
+delete_blog_post		~!~	удалить пост (топик)
+delete_blog_post_full		~!~	вы уверены, что хотите совсем удалить свой пост (топик). Вы можете переставить ему статус на черновик, он пропадет с сайта, и останется только в Вашем профиле. Вы уверены, что хотите удалить свой пост (топик)
+no_blog_posts			~!~	топики не найдены
+read_more			~!~	читать дальше
+blog_name_s			~!~	блог им.
+community_name_s		~!~	сообщество им.
+opened_blog_post		~!~	открыт для всех 
+closed_blog_post		~!~	закрыт (личная запись)
+opened_only_for_friends		~!~	открыт только для друзей
+private_record			~!~	личная запись
+for_friends			~!~	для друзей
+blog_domain_sysname_error	~!~	измените домен блога, текущее имя является системным и не может быть использовано
+create_new_blog			~!~	создать новый блог
+posts_in_public_blog_have_not_be_hidden	~!~	посты в тематическом блоге не могут быть открытыми или только для друзей
+blog_switch_1			~!~	добавить в избранное
+blog_switch_0			~!~	&nbsp;
+posts_cnt			~!~	количество постов
+posts_in_public_blog_cant_be_hidden	~!~	посты в сообществах и тематических блогах могут быть только открытыми для всех
+tagscloud_of_the_blog		~!~	облако тегов блога
+blog_post_readed		~!~	топик прочитан
+no_blogs			~!~	блоги не найдены
+warden				~!~	смотритель
+join_blog			~!~	присоединиться к блогу
+lastcomments			~!~	последние комментарии
+write_to_this_blog		~!~	написать в этот блог
+your_are_the_member_of_this_blog	~!~	вы - участник этого блога
+blogs_no_name			~!~	без названия
+please_enter_your_name		~!~	пожалуйста, введите Ваше имя
+enter_your_name			~!~	Ваше имя
+enter_code_on_the_picture	~!~	введите код на картинке
+refresh_code			~!~	обновить код
+
+###Text editor
+bold_descr			~!~	жирный шрифт
+italic_descr			~!~	наклонный шрифт (курсив)
+underline_descr			~!~	подчеркнутый текст
+strike_descr			~!~	перечеркнутый текст
+url_descr			~!~	добавить ссылку
+code_descr			~!~	вставить код
+quote_descr			~!~	вставить цитату
+video_descr			~!~	вставить видео-ролик
+insert_picture_descr		~!~	вставить картинку
+newpage_descr			~!~	вставить переход на новую страницу (разбить на страницы)
+cut_descr			~!~	сделать cut, все, что ниже, скрывается под ссылкой "читать далее"
+
+
+
+###People, users
+hobbies_cloud			~!~	облако интересов
+hobbies_connected_with_hobby	~!~	интересы, связанные с интересом
+people_lastcomments		~!~	последние комментарии пользователей
+people_last_comments		~!~	последние комментарии пользователей
+people_by_regions		~!~	пользователи по регионам
+people_hobbies			~!~	интересы пользователей
+with_hobby			~!~	с интересом
+people_by_cities_in		~!~	пользователи по городам в 
+set_filter			~!~	задать фильтр
+
+
+###Bookmarks
+add_to_bookmarks		~!~	добавить в закладки
+all_services			~!~	все сервисы
+bookmarks			~!~	закладки
+bookmark_to_mailru		~!~	В Мой Мир
+remember_this_page		~!~	запомнить эту страницу
+myplace				~!~	Моё Место
+post_in				~!~	опубликовать в
+add_to				~!~	добавить в
+vkontakte			~!~	ВКонтакте
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+letter_reason			~!~	Вы получили это письмо, потому что согласились получать оповещения о новых сообщениях и ответах на Ваши комментарии.
+letter_unsubscribe_info		~!~	Изменить настройки своей подписки можно на странице редактирования своего профиля - <a href='http://www.obzor.lt/profile/edit_profile/'>http://www.obzor.lt/profile/edit_profile/</a>.
+letter_with_respect		~!~	С уважением,
+letter_obzor_administration	~!~	администрация <a href='http://www.obzor.lt/'>Obzor.LT</a>.
+
+
+courses_archive_for_the_date	~!~	архив курсов на дату
+currencies_of			~!~	курсы валют
+select_base_val			~!~	выберите базовую валюту
+courses_of_main_vals_ref_to	~!~	курсы основных валют относительно
+in_banks_balt_rus_bel		~!~	в банках стран Балтии, России и Беларуси
+val_short			~!~	валюта
+units_short			~!~	кол. ед.
+val_course			~!~	курс
+mod_abs				~!~	изменение, абс
+mod_proc			~!~	изменение, %
+relatively			~!~	относительно
+nominal				~!~	номинал
+
+
+
+
+
+
+
+
+
+
+###Error messages
+
+enter_nick			~!~	введите ник
+for_adding_comments_sinin_or_signup_required	~!~	для того, чтобы оставлять комментарии, необходимо войти или зарегистрироваться
+sid_contains_error		~!~	SID содержит недопустимые символы			~!~	SID variable contains incorrect characters
+no_user				~!~	пользователь не существует				~!~	user doesn't exist
+access_denied			~!~	доступ запрещен						~!~	access denied
+user_is_already_signed_in	~!~	пользователь уже авторизован				~!~	user is already signed in
+empty_sid			~!~	неверный SID						~!~	incorrect SID
+auth_session_not_found		~!~	сессия авторизации не найдена				~!~	auth session not found
+empty_email			~!~	поле email пустое					~!~	email field is empty
+email_contains_error		~!~	поле email содержит недопустимые символы		~!~	email field contains incorrect characters
+empty_password_repeat		~!~	введите подтверждение пароля
+empty_password			~!~	пустой пароль						~!~	password field is empty
+passwords_mismatch		~!~	пароли не совпадают
+short_password			~!~	слишком короткий пароль
+password_contains_error		~!~	пароль содержит недопустимые символы			~!~	password field contains incorrect characters
+incorrect_password		~!~	неверный пароль						~!~	incorrect password
+auth_error			~!~	ошибка авторизации
+unknown_error			~!~	неизвестная ошибка
+unknown_error_message		~!~	вызван канал ошибки но ошибка не указана
+signin_required			~!~	данная страница доступна только зарегистрированным пользователям
+no_formdata			~!~	введите данные
+unactivated_user		~!~	учетная запись не активирована, чтобы ее активировать, перейдите по ссылке в активационном письме, которое Вам было выслано при регистрации
+enter_birth_date		~!~	введите дату рождения
+this_email_is_already_taken	~!~	пользователь с этим емейлом уже зарегистрирован
+enter_name_or_nick		~!~	введите ник или имя и фамилию
+user_not_added			~!~	пользователь не добавлен
+access_restricted		~!~	доступ к странице ограничен
+unauthorised_user		~!~	эта возможность доступна только зарегистрированным пользователям
+last_time_was_on_the_site_on	~!~	последний раз был на сайте
+no_object_id			~!~	не передан id объекта
+this_nick_is_already_taken	~!~	этот ник уже занят
+unknown_vote_mode		~!~	неизветный профиль голосования
+new_not_found			~!~	новость не найдена
+empty_title			~!~	пустой заголовок
+empty_text			~!~	пустой текст
+no_sections			~!~	не выбраны категории
+no_keywords			~!~	не введены ключевые слова
+this_domain_is_already_in_use	~!~	этот домен уже используется
+publication_updated		~!~	публикация сохранена
+publication_added		~!~	публикация добавлена
+publication_not_added		~!~	публикация не добавлена
+enter_a_link			~!~	введите url
+enter_a_youtube_link		~!~	ссылка на ролик на youtube.com
+add_image			~!~	добавить картинку
+input_img_url			~!~	введите url картинки
+upload_local_file		~!~	загрузите файл с компьютера
+pic_url				~!~	url картинки
+local_file			~!~	локальный файл 
+upload_file			~!~	загрузить файл
+img_description			~!~	описание картинки
+upload_image			~!~	загрузить картинку
+img_url				~!~	url картинки
+img_description			~!~	описание картинки
+create_local_copy		~!~	создать копию на сервере
+enter_image_url			~!~	ввести url картинки	 
+add_image_by_url		~!~	добавить картинку по url
+enter_an_image_link		~!~	введите ссылку на картинку
+tagscloud			~!~	облако тегов
+tags_connected_with_tag		~!~	теги, связанные с тегом
+tags_connected_with		~!~	теги, связанные с
+news_by_tag			~!~	новости по тегу
+last_comments			~!~	последние комментарии
+comments_to			~!~	комментарии к
+comments_count			~!~	количество комментариев
+comments_by_tag			~!~	комментарии по тегу
+article_readed_times		~!~	раз
+article_readed			~!~	статья прочитана
+delete_notifications		~!~	удалить оповещения
+subscribtion			~!~	подписка
+delete_article			~!~	удалить статью
+article_deleted			~!~	статья удалена
+
+
+this_game_was_downloaded_by	~!~	эту игру скачали
+events_page_under_construction	~!~	Раздел сайта, посвещенный афише и событиям в Литве, находится в разработке. Раздел заработает, как только наберется необходимое количество заявок и материалов.
+add_new_event			~!~	добавить новое событие
+edit_event			~!~	редактировать информацию о событии
+place_of_the_action		~!~	место проведения
+time_of_the_action		~!~	время проведения
+date_of_the_action		~!~	дата проведения
+time_start			~!~	время начала
+month_start			~!~	месяц от
+month_end			~!~	месяц до
+start_end_dates			~!~	диапазон дат
+single_date			~!~	один день
+event_updated			~!~	информация о событии обновлена
+event_added			~!~	событие добавлено
+added_images			~!~	добавленные изображения
+
+link_with_geo			~!~	связать с гео
+link_with_date			~!~	связать с датой
+
+select_date_type	~!~	выберите тип дат
+event_one_day		~!~	один день
+event_days		~!~	конкретные дни
+event_months		~!~	месяца
+event_full_year		~!~	весь год
+time_type		~!~	тип времени
+
+write_message			~!~	написать сообщение
+send_message			~!~	отправить сообщение
+enter_message_title		~!~	введите заголовок сообщения
+enter_message_text		~!~	введите текст сообщения
+failed_sending_message		~!~	ошибка отправки сообщения
+
+for_yandex			~!~	для яндекса
+
+
+
+game_readed_times		~!~	раз
+game_readed			~!~	игру скачали
+game_screenshots		~!~	скриншоты игры
+game_description		~!~	описание игры
+download_game			~!~	скачать игру
+game_size			~!~	размер игры
+order_game_text			~!~	вы можете заказать диск с игрой, если не хотите скачивать
+order_game			~!~	заказать игру
+other_games			~!~	другие игры
+by_genres			~!~	в жанрах
+by_genre			~!~	в жанре
+game_trailer			~!~	видео ролик игры
+
+news_lenta_by_tag		~!~	лента новостей по тегу
+news_lenta_first_line		~!~	лента новостей, первая полоса
+news_lenta			~!~	лента новостей
+dont_forget_to_add_photo	~!~	не забыть добавить фото
+you_cannot_further_up_rating_today	~!~	не хватает силы, чтобы дальше поднимать рейтинг
+you_cannot_further_down_rating_today	~!~	не хватает силы, чтобы дальше опускать рейтинг
+game_not_found			~!~	игра не найдена
+
+people_by_hobby		~!~	пользователи по интересу
+people_list_by_hobby	~!~	список пользователей по интересам
+people_list_in		~!~	пользователи в
+people_list		~!~	список пользователей
+
+
+edit_img_style_1		~!~	обычный (float:left)
+edit_img_style_2		~!~	большая по центру
+
+your_city			~!~	ваш город
+not_choosena			~!~	не выбрана
+not_choosen			~!~	не выбран
+
+board_in_your_city		~!~	доски объявлений в Вашем городе
+you_ve_already_voted_at		~!~	вы уже голосовали в
+you_ve_already_voted		~!~	вы уже голосовали
+you_cannot_vote_for_your_own_material	~!~ вы не можете голосовать за собственный материал
+you_cannot_vote_for_your_own_comment	~!~ вы не можете голосовать за собственный комментарий
+mark_wasnt_received		~!~	оценка не была получена
+incorrect_mark			~!~	неверная оценка
+vote_object_not_found		~!~	объект для голосования не найден
+popular_themes_today		~!~	популярные темы сегодня
+
+nodtupdate			~!~	не обновлять дату
+edit_static_page		~!~	редактировать статичную страницу
+add_new_static_page		~!~	добавить новую статичную страницу
+add_static_page			~!~	добавить статичную страницу
+static_page_updated		~!~	статичная страница обновлена
+static_page_added		~!~	статичная страница добавлена
+
+read_the_news_lenta		~!~	читать новости в виде ленты
+
+all_newslenta_by_tag		~!~	вся лента новостей по тегу
+all_newslenta			~!~	вся лента
+
+edit_publication		~!~	редактировать публикацию
+add_new_publication		~!~	добавить новую публикацию
+goto_mainpage			~!~	перейти на главную страницу
+forgotten_password		~!~	забыл пароль
+site_signin			~!~	вход на сайт
+first_line			~!~	первая полоса
+user_agreement			~!~	пользовательское соглашение
+autoredirect_in			~!~	переадресация через
+greeting_message		~!~	спасибо что зашли
+exit_message			~!~	всего доброго
+goto_now			~!~	перейти сейчас
+short_greeting			~!~	добро пожаловать
+signup_success			~!~	Вы успешно зарегистрировались. Теперь Вы можете зайти на сайт, используя свой логин и пароль.
+no_adv				~!~	откл. рекламу
+no_advertising			~!~	отключить рекламу
+
+
+add_help_page			~!~	добавить страницу помощи
+edit_help_page			~!~	редактировать страницы помощи
+add_new_help_page		~!~	добавить новую страницу помощи
+help_url_template		~!~	шаблон url где показывается
+delete_help_page		~!~	удалить страницу помощи
+help_page_updated		~!~	страница помощи обновлена
+help_page_not_added		~!~	страница помощи не добавлена
+help_page_added			~!~	страница помощи добавлена
+help_page_deleted		~!~	страница помощи удалена
+site_help			~!~	помощь по сайту
+show_next_time			~!~	показать в следующий раз
+
+add_wiki_page			~!~	добавить wiki-статью
+edit_wiki_page			~!~	редактировать wiki-статью
+add_new_wiki_page		~!~	добавить новую wiki-статью
+delete_wiki_page		~!~	удалить wiki-статью 
+wiki_page_updated		~!~	статья обновлена
+wiki_page_not_added		~!~	статья не добавлена
+wiki_page_added			~!~	статья добавлена
+wiki_page_deleted		~!~	статья удалена
+select_wiki_section		~!~	выберите wiki-раздел
+wiki_added			~!~	wiki-статья добавлена
+wiki_updated			~!~	wiki-статья обновлена
+other_wiki			~!~	другие материалы
+
+
+
+
+
+
+
+look_how_it_looks_on_the_site	~!~	посмотреть, как она выглядит на сайте
+look_how_it_looks_on_the_site2	~!~	посмотреть, как он выглядит на сайте
+new_with_this_title_already_exists	~!~	Новость с этим заголовком уже существует
+news_by_cities_in			~!~	новости по городам в 
+add_around_style		~!~	создать обрамляющий блок [imgs]...[/imgs]
+signup_email_help		~!~	Для проверки регистрации и в целях безопасности нам нужен адрес ваш email. Он же используется в качестве логина на сайт.
+signup_password_help		~!~	Должен содержать не менее 5 символов и состоять из латинских букв и цифр. Не используйте простые пароли, будьте разумны.
+own_obzor_article		~!~	собственная статья «Обзора»
+news_lenta			~!~	лента новостей
+other_news			~!~	другие новости
+by_theme			~!~	по теме
+by_themes			~!~	по темам
+keywords			~!~	ключевые слова
+last_users_comments		~!~	последние комментарии пользователя
+contact_email			~!~	контактный email
+send_message			~!~	отправить сообщение
+user_with_nick			~!~	пользователь с ником
+message_sent			~!~	сообщение отправлено
+message_not_sent		~!~	сообщение не отправлено
+delete_messages			~!~	удалить сообщения
+delete_message			~!~	удалить сообщение
+
+in_all_cities2			~!~	во всех городах
+board_offers			~!~	доски объявлений
+board_offers_not_found		~!~	объявления не найдены
+my_board_offers			~!~	мои объявления
+add_new_board_offer		~!~	добавить новое объявление
+edit_board_offer		~!~	редактировать объявление
+select_board_offer_section	~!~	выберите раздел
+
+
+subscribe_main_help		~!~	подписаться на еженедельную рассылку
+subscribe_notifications_help	~!~	оповещать меня, когда мне приходит новое сообщение или когда отвечают на мой комментарий
+subscribe_messages_help		~!~	оповещать меня, когда мне приходит новое сообщение
+subscribe_answers_help		~!~	оповещать меня, когда отвечают на мой комментарий
+subscription			~!~	подписка
+
+
+weather_forecast_in_your_city	~!~	прогноз погоды в Вашем городе
+weather_forecast_for_a_week_in	~!~	прогноз погоды на неделю в
+weather_forecast_in		~!~	прогноз погоды в
+weather_in			~!~	погода в
+weather_not_found		~!~	данные о погоде не найдены
+
+
+last_newspaper_number		~!~	последний выпуск газеты «Обзор», номер
+
+
+
+
+changing_user_profile	~!~	изменение данных пользователя
+changing_password	~!~	изменение пароля
+main_profile_data	~!~	основные данные
+new_password		~!~	новый пароль
+new_password2		~!~	повтор пароля
+old_password		~!~	старый пароль
+current_password	~!~	текущий пароль
+save_changes		~!~	сохранить изменения
+
+saves_changed			~!~	изменения сохранены
+no_new_password			~!~	новый пароль не указан
+enter_current_password  	~!~	введите текущий пароль
+incorrect_current_password	~!~	неверный текущий пароль
+new_passwords_mismatch		~!~	новые пароли не совпадают
+too_short_new_password		~!~	пароль короче 6-ти символов
+
+delete_photo			~!~	удалить фото
+photo_not_loaded		~!~	фото не загружено
+upload_new_photo		~!~	загрузить новое фото
+photo_deleted			~!~	фото удалено
+
+adv_not_found			~!~	рекламное объявление не найдено
+add_adv				~!~	добавить рекламу
+add_new_adv			~!~	добавить новое рекламное объявление
+edit_adv			~!~	редактировать рекламное объявление
+banner_file			~!~	файл баннера (картинки)
+new_adv_file			~!~	новый файл рекламы
+new_file			~!~	новый файл
+to_change_adv_text		~!~	чтобы изменить картинку с рекламой, укажите новый файл в форме ниже. Чтобы оставить тот, что есть, ничего не указывайте.
+adv_updated			~!~	изменения сохранены
+adv_not_added			~!~	рекламное объявление не добавлено
+adv_added			~!~	рекламное объявление добавлено
+upload_banner			~!~	загрузить баннер (картинку)
+change_banner			~!~	изменить баннер (картинку)
+
+
+all_tv_programs			~!~	все телеканалы
+tv_soon				~!~	скоро в эфире
+tv_program_for_a_week		~!~	программа передач на неделю
+tv_program_for_a		~!~	программа телепередач на
+tv_program_not_found		~!~	телепрограмма на эту дату не найдена
+tv_program			~!~	программа передач
+
+in_last_obzor_newspaper		~!~	в последнем выпуске газеты «Обзор»
+in_obzor_newspaper_number	~!~	в выпуске газеты «Обзор»
+newspaper_numer_sybmol		~!~	№ газеты
+read_in_this_number		~!~	читайте в этом номере
+this_newspaper_number		~!~	в этом номере
+in_this_number			~!~	в этом номере
+in_newspaper_number		~!~	в номере
+newspaper_number		~!~	выпуск номер
+newspaper_comments		~!~	комментарии статей номера
+newspaper_tags			~!~	темы статей номера
+in_the_number			~!~	в номере
+main_page			~!~	главная
+
+
+sex_familiar_0			~!~	люди
+sex_familiar_1			~!~	парни
+sex_familiar_2			~!~	девушки
+
+
+
+
+
+
+
+###Short words
+not_important			~!~	любой	
+age				~!~	возраст
+last_update			~!~	последнее обновление
+change_image			~!~	сменить картинку
+currencies			~!~	курсы валют
+empty_to			~!~	не указано, кому отправлять
+not_found			~!~	не найден
+main_news			~!~	главные новости
+all_news			~!~	все новости
+number_symbol			~!~	№
+not_selected			~!~	не выбран
+all_countries			~!~	все страны
+all_offers			~!~	все объявления
+news_by_tag			~!~	новости по тегу
+channel				~!~	канал
+channel_file			~!~	файл канала
+doesnt_exist			~!~	не существует
+rss_feed			~!~	RSS поток						~!~	RSS feed
+search				~!~	поиск							~!~	search
+signin				~!~	войти							~!~	sign in
+signup				~!~	зарегистрироваться					~!~	sign up
+email				~!~	email							~!~	email
+password_repeat			~!~	повторите пароль
+password			~!~	пароль							~!~	password
+exit				~!~	выход							~!~	exit
+birthdate			~!~	дата рождения
+fname				~!~	имя
+lname				~!~	фамилия
+nick				~!~	ник	
+title				~!~	заголовок
+text				~!~	текст
+author				~!~	автор
+copyright			~!~	копирайт
+domain				~!~	домен
+noautoformat			~!~	отключить автоформатирование
+date_published			~!~	дата публикации
+date_publ			~!~	дата публ.
+date_added			~!~	дата добавления
+date_add			~!~	дата доб.
+
+add_section			~!~	добавить категорию
+select_news_section		~!~	выберите категорию новостей
+sections			~!~	категории
+section				~!~	категория
+keywords			~!~	ключевые слова
+write_down			~!~	написать
+add_comment			~!~	добавить комментарий
+add_comment_short		~!~	комментировать
+add_board_offer			~!~	добавить объявление
+news_section			~!~	новостная категория
+
+law_information			~!~	правовая информация
+contact_information		~!~	контактная информация
+about_me			~!~	обо мне
+message_text			~!~	текст сообщения
+
+less_than_a_week		~!~	меньше недели
+on_the_site			~!~	на сайте
+
+no_publication			~!~	публикация не найдена
+no_publications			~!~	публикации не найдены
+add_publication			~!~	добавить публикацию
+
+readers_hobbies			~!~	интересы читателей
+readers_hobbies_in		~!~	интересы читателей в
+readers_hobbies_from		~!~	интересы читателей из
+similar_hobbies			~!~	похожие интересы
+weather_forecast		~!~	прогноз погоды
+weather_forecast_in_lithuania	~!~	прогноз погоды в Литве
+synoptic			~!~	синоптик
+
+news_by_regions			~!~	новости по регионам
+events_by_regions		~!~	события по регионам
+users_by_regions		~!~	пользователи по регионам
+
+
+add_files			~!~	добавить файлы
+delete_file			~!~	удалить файл
+uploaded_files			~!~	загруженные файлы
+date_start			~!~	дата от
+date_end			~!~	дата до
+add_newspaper			~!~	добавить выпуск
+global_id			~!~	глобальный id
+absolute_id			~!~	абсолютный id
+main_data			~!~	основные данные
+edit_newspaper			~!~	редактировать выпуск
+newspaper_updated		~!~	информация о выпуске обновлена
+this_newspaper_already_exists	~!~	такой выпуск уже существует
+newspaper_id_not_found		~!~	указанный выпуск газеты не существует
+newspaper_added			~!~	выпуск газеты добавлен
+image_not_ready_yet		~!~	изображение обрабатывается
+all_games			~!~	все игры
+all_sections			~!~	все категории
+send_inquiry			~!~	отправить заявку
+logo_or_photo			~!~	логотип или фотография
+privacy				~!~	приватность
+
+geography			~!~	география
+
+new_messages1			~!~	новое сообщение
+new_messages2			~!~	новых сообщения
+new_messages3			~!~	новых сообщений
+
+messages1			~!~	сообщение
+messages2			~!~	сообщения
+messages3			~!~	сообщений
+
+new_answers1			~!~	новый ответ
+new_answers2			~!~	новых ответа
+new_answers3			~!~	новых ответов
+
+new_comments1			~!~	новый комментарий
+new_comments2			~!~	новых комментария
+new_comments3			~!~	новых комментариев
+
+
+new_messages			~!~	новые сообщения
+new_comments			~!~	новые комментарии
+new_comments_answers		~!~	новые ответы на комментарии
+
+
+article_readed_times1		~!~	раз
+article_readed_times2		~!~	раза
+article_readed_times3		~!~	раз
+
+times1				~!~	раз
+times2				~!~	раза
+times3				~!~	раз
+
+
+
+
+
+
+###Dates
+today				~!~	сегодня							~!~	today
+yesterday			~!~	вчера							~!~	yesterday
+tomorrow			~!~	завтра
+after_tomorrow			~!~	послезавтра
+before_yesterday		~!~	позавчера
+
+month1				~!~	январь							~!~	january
+month2				~!~	февраль							~!~	february
+month3				~!~	март							~!~	march
+month4				~!~	апрель							~!~	april
+month5				~!~	май							~!~	may
+month6				~!~	июнь							~!~	june
+month7				~!~	июль							~!~	july
+month8				~!~	август							~!~	august
+month9				~!~	сентябрь						~!~	september
+month10				~!~	октябрь							~!~	october
+month11				~!~	ноябрь							~!~	november
+month12				~!~	декабрь							~!~	december
+                                                                			
+month_12			~!~	января							~!~	january
+month_22			~!~	февраля							~!~	february
+month_32			~!~	марта							~!~	march
+month_42			~!~	апреля							~!~	april
+month_52			~!~	мая							~!~	may
+month_62			~!~	июня							~!~	june
+month_72			~!~	июля							~!~	july
+month_82			~!~	августа							~!~	august
+month_92			~!~	сентября						~!~	september
+month_102			~!~	октября							~!~	october
+month_112			~!~	ноября							~!~	november
+month_122			~!~	декабря							~!~	december
+
+weekday0			~!~	воскресенье
+weekday1			~!~	понедельник
+weekday2			~!~	вторник
+weekday3			~!~	среда
+weekday4			~!~	четверг
+weekday5			~!~	пятница
+weekday6			~!~	суббота
+
+weekday02			~!~	воскресенье
+weekday12			~!~	понедельник
+weekday22			~!~	вторник
+weekday32			~!~	среду
+weekday42			~!~	четверг
+weekday52			~!~	пятницу
+weekday62			~!~	субботу
+
+wd0				~!~	вс
+wd1				~!~	пн
+wd2				~!~	вт
+wd3				~!~	ср
+wd4				~!~	чт
+wd5				~!~	пт
+wd6				~!~	сб
+
+
+
+
+
+
+
+
+###ULTRASHORT
+
+description			~!~	описание
+fullinfo			~!~	подробнее
+by_regions			~!~	по регионам
+administrator			~!~	администратор
+admin				~!~	админ
+owner				~!~	владелец
+
+reply				~!~	ответить
+day_temp			~!~	температура днем
+night_temp			~!~	температура ночью
+
+full_list			~!~	полный список
+with_comma			~!~	через запятую
+download			~!~	скачать
+full_info			~!~	подробнее
+readers				~!~	читатели
+new_members			~!~	новые пользователи
+authors				~!~	авторы
+reader				~!~	читатель
+author				~!~	автор
+editor				~!~	редактор
+admin				~!~	админ
+rating_strench			~!~	рейтинг/сила
+birth_date			~!~	дата рождения
+where_from			~!~	откуда
+added1				~!~	добавлен
+added2				~!~	добавлена
+added3				~!~	добавлено
+not_found			~!~	не найдена
+loading				~!~	загрузка
+select				~!~	выбрать
+country				~!~	страна
+city				~!~	город
+add_page			~!~	добавить страницу
+updated_on			~!~	обновлено
+lenta				~!~	лента
+clear				~!~	очистить
+by_tag				~!~	по тегу
+at_night			~!~	ночью
+humidity			~!~	влажность
+snow_prob			~!~	вероятность снега
+cloud_coverage			~!~	облачность
+sun_rise			~!~	солнце восход
+sun_set				~!~	солнце закат
+moon_rise			~!~	луна восход
+moon_set			~!~	луна закат
+moon_phase			~!~	фаза луны
+wind				~!~	ветер
+sunmoon_set			~!~	закат
+make_em				~!~	нравится
+brake_em			~!~	не нравится
+comments			~!~	комментарии
+cancel				~!~	отмена
+answers				~!~	ответы
+answer				~!~	ответить
+you_re				~!~	вы
+error				~!~	ошибка
+name				~!~	имя
+photo				~!~	фото
+phone				~!~	телефон
+hobbies				~!~	интересы
+statuses			~!~	статусы
+all_people			~!~	все пользователи
+registered			~!~	зарегистрирован
+activity			~!~	активность
+never				~!~	никогда
+rating				~!~	рейтинг
+strench				~!~	сила
+number				~!~	номер
+published			~!~	опубликована
+play				~!~	играть
+address				~!~	адрес
+images				~!~	изображения
+image				~!~	изображение
+organizator			~!~	организатор
+contact_person			~!~	контактное лицо
+dates				~!~	даты
+contacts			~!~	контакты
+advertising			~!~	реклама
+article				~!~	статья
+publication			~!~	публикация
+message				~!~	сообщение
+game				~!~	игра
+banks				~!~	банки
+bank				~!~	банк
+until				~!~	до
+close				~!~	закрыть
+
+weeks			~!~	недели
+week			~!~	неделя
+months1			~!~	месяца
+months2			~!~	месяцев
+month			~!~	месяц
+years			~!~	года
+year			~!~	год
+                                          
+
+sex0				~!~	не уверен
+sex1				~!~	мужской
+sex2				~!~	женский
+sex				~!~	пол
+
+
+blog				~!~	блог
+
+
+spam				~!~	спам
+information			~!~	информация
+place				~!~	место
+delete				~!~	удалить	
+banner				~!~	баннер
+files				~!~	файлы
+file				~!~	файл
+day				~!~	день							~!~	day
+run				~!~	запустить
+goto				~!~	перейти
+sec				~!~	сек
+edit				~!~	редактировать
+add				~!~	добавить
+remove				~!~	удалить
+save				~!~	сохранить
+draft				~!~	черновик
+publish				~!~	публикация
+hidden				~!~	скрытый
+status				~!~	статус
+or				~!~	или
+style				~!~	стиль
+at				~!~	в
+next				~!~	вперед
+back				~!~	назад
+let				~!~	лет
+in				~!~	в
+m_s				~!~	м/с
+tv				~!~	тв
+za				~!~	за
+and				~!~	и
+from				~!~	от
+date				~!~	дата
+news				~!~	новости
+to_who				~!~	кому
+when				~!~	когда
+on				~!~	на
+za				~!~	за
+iz				~!~	из
+do				~!~	до
+s				~!~	с
+u				~!~	у
