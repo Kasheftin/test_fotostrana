@@ -6,11 +6,6 @@ $CONFIG = require("config.php");
 
 try
 {
-	DB::setConfig($CONFIG["db"]);
-
-	$geo_cities = set_by_id(DB::f("select * from geo_cities"));
-	$geo_countries = set_by_id(DB::f("select * from geo_countries"));
-
 	DEBUG::start();
 
 	mb_internal_encoding("UTF-8");

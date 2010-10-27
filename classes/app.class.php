@@ -42,6 +42,10 @@ class app
 
 	public function run()
 	{
+		GLOBAL $geo_cities,$geo_countries;
+		$geo_cities = set_by_id(DB::f("select * from geo_cities"));
+		$geo_countries = set_by_id(DB::f("select * from geo_countries"));
+
 		Auth::run();
 		if ($user = Auth::getUser())
 			$this->user = $user;
